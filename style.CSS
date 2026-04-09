@@ -1,0 +1,35 @@
+h1 {
+   color: #03045e;
+   text-align: center;
+}
+h2 {
+    color: #023e8a;
+    text-align: center;
+}
+button{
+    color:rgb(28, 19, 19) 
+}
+body{
+    background-color:#adb5bd;
+}
+button{
+    background-color:rgb(175, 180, 125);
+}
+h3{
+    color:#90a955;
+    text-align: left;
+}
+#box{
+    background-color: greenyellow;
+}
+h3{
+    size: 15px;
+    color: #14618a;
+}
+table{
+    text-size-adjust:50px;
+}
+caption{
+    color:#14618a;
+    text-align:left;
+}
